@@ -1,0 +1,6 @@
+{
+  "name": "NEON SURVIVOR 3D",
+  "description": "Third-person 3D roguelite survival arena shooter built with Three.js and procedural Web Audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
